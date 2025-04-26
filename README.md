@@ -58,6 +58,10 @@ Modify these parameters in config.h:
 ## 📜 License
 MIT
 
+## 📚 Documentation
+- [User Guide](README.md)
+- [Technical Deep Dive](TECHNICAL_REVIEW.md)
+
 ## 🔍 Detailed Technical Specifications
 
 ### Pin Configuration
