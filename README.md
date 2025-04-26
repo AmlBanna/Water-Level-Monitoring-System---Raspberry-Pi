@@ -52,7 +52,7 @@ Modify these parameters in config.h:
 ```
 ## 📊 System Architecture
 
-
+![Image](https://github.com/user-attachments/assets/ad364cbe-b0ab-4f01-a7bb-1c17f58e3e0e)
 ![System Architecture Diagram](images/diagram_water_lvl.png)
 
 ## 📜 License
