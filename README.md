@@ -100,4 +100,3 @@ Cloud data logging
 Automated valve control
 
 Low-power mode
-
